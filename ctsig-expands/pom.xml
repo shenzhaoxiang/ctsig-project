@@ -2,23 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
     <parent>
         <artifactId>ctsig-project</artifactId>
         <groupId>com.ctsig</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.ctsig.common</groupId>
-    <artifactId>ctsig-common</artifactId>
-    <packaging>pom</packaging>
 
-    <modules>
-        <module>ctsig-common-base</module>
-        <module>ctsig-common-service</module>
-        <module>ctsig-common-web</module>
-        <module>ctsig-common-configer</module>
-    </modules>
+    <groupId>com.ctsig.expands</groupId>
+    <artifactId>ctsig-expands</artifactId>
+
 
 </project>
